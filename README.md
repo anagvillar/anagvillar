@@ -1,16 +1,14 @@
-## Hi there 👋
+## SEJA BEM VINDO AO MEU PERFIL 🫀
 
-<!--
-**anagvillar/anagvillar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ana Laura Garcia Villar
 
-Here are some ideas to get you started:
+- Etou estudando na alura 
+- Etou me desenvolvendo na linguagem javascript
+- Ultilizo esse espaço para minha organização e compartilhamento dos meu projetos deenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Voçe pode entrar em contato comigo 📫
+
+  a.villar@escola.pr.gov.br
+
+  a.villar
+  
