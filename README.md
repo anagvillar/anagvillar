@@ -2,7 +2,7 @@
 
 Meu nome é Ana Laura Garcia Villar
 
-- Etou estudando na alura 
+- Etou estudando na [alura](https://www.alura.com.br) 
 - Etou me desenvolvendo na linguagem javascript
 - Ultilizo esse espaço para minha organização e compartilhamento dos meu projetos deenvolvidos
 
